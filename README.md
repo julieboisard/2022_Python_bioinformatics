@@ -2,7 +2,7 @@
 
 # Introduction to python programming and bioinformatics
 
-September 19-23, 2022
+September 26-30, 2022 - Week 39
 
 Course leader: Sara Behnamian & Julie Boisard (Dept. of Biology, Lund University)
 
@@ -34,7 +34,7 @@ Attendance in mandatory each day to receive credits (3 hp). Evaluation is pass/f
 ## Schedule at a glance
 
 
-### Day1: September 19th 2022
+### Day1: September 26th 2022
 
 Room ???
 
@@ -55,7 +55,7 @@ Afternoon (Sara)
 *
 *
 
-### Day2: September 20th 2022
+### Day2: September 27th 2022
 
 Room ???
 
@@ -74,7 +74,7 @@ Afternoon (Julie)
 * Local BLAST
 
 
-### Day3: September 21st 2022
+### Day3: September 28th 2022
 
 Room ???
 
@@ -93,7 +93,7 @@ Afternoon (Sara)
 *
 
 
-### Day4: September 22nd 2022
+### Day4: September 29th 2022
 
 Room ???
 
@@ -113,7 +113,7 @@ Afternoon (Julie)
 * Exam Prep
 
 
-### Day5: September 23rd 2022
+### Day5: September 30th 2022
 
 Room ???
 
