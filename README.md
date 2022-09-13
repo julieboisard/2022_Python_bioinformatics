@@ -7,6 +7,7 @@ September 26-30, 2022 - Week 39
 Course leader: Sara Behnamian & Julie Boisard (Dept. of Biology, Lund University)
 
 sara.behnamian@biol.lu.se
+
 julie.boisard@biol.lu.se
 
 
@@ -14,8 +15,13 @@ julie.boisard@biol.lu.se
 
 We will meet from 9-16 with breaks around 1030 and 1430.
 
-All meetings will be held in the B and D Houses of the Biology Building located on Sölvegatan 35. We suggest entering the building from the main entrance on the south side of the building (facing the new LTH tram stop). Once inside, you are on the ‘second floor’ (floor 2), turn left to access the B and D houses. https://maps.app.goo.gl/GDTBdNb1kQpW2FDo8
+All meetings will be held in the B and D Houses of the Biology Building located on Sölvegatan 35.
 
+We suggest entering the building from the main entrance on the south side of the building (facing the new LTH tram stop).
+
+Once inside, you are on the ‘second floor’ (floor 2), turn left to access the B and D houses. https://maps.app.goo.gl/GDTBdNb1kQpW2FDo8
+
+**to be updated**
 * B327 Syndpunkten - Conference room on the third floor of House B
 * D227 Retina - Second floor of House D
 * D107 Etiketten - First floor of House D
@@ -45,7 +51,6 @@ Morning (Julie)
 * Basic python tutorial
 * Code Discussion
 * Debugging exercises
-* Hand-in exercises
 
 Afternoon (Sara)
 
@@ -116,6 +121,8 @@ Afternoon (Julie)
 ### Day5: September 30th 2022
 
 Room ???
+
+**to be updated**
 
 * Project - from sequence to annotation. Combine what you have learned. Write a script or Jupyter notebook to help you annotate an unknown protein locally - that is, do not simply BLAST your sequence using BLAST online. Your workflow should include at least 4 of the following outputs:
     * The protein sequence in a fasta file
