@@ -53,8 +53,6 @@ Exercices
    </td>
    <td><strong>xxx</strong>
 <p>
-xxx
-<p>
 Exercises
    </td>
   </tr>

@@ -52,8 +52,7 @@ xxx
    </td>
    <td><strong>Alignments</strong>
 <p>
-Exercices<p>
-Exercises
+Exercices
    </td>
   </tr>
   <tr>
