@@ -2,7 +2,7 @@
 
 ### Day2: September 27th 2022
 
-Room Mitochondrion
+Room xxx
 
 
 Part 1
@@ -51,7 +51,7 @@ xxx
   <tr>
    <td>13
    </td>
-   <td><strong>Python and Biology - Part 2</strong>
+   <td><strong>Python and Biology</strong>
 <p>
 Biopython introduction
 <p>
@@ -67,7 +67,7 @@ Exercises
   <tr>
    <td>1445
    </td>
-   <td><strong>Python and Biology - Exercices </strong>
+   <td><strong>Python and Biology</strong>
 <p>
 Exercises
    </td>

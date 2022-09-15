@@ -3,7 +3,7 @@
 
 ### Day1: September 26th 2022
 
-Room B327 Synpunkten
+Room xxx
 
 Course material will be available at [https://github.com/julieboisard/2022_Python_bioinformatics/](https://github.com/julieboisard/2022_Python_bioinformatics/)
 
@@ -26,7 +26,7 @@ Introduction to the course - Learning objectives
   <tr>
    <td>930
    </td>
-   <td><strong>Python basics - Part I </strong>
+   <td><strong>Python basics</strong>
 <p>
 Jupyter notebook
 <p>
@@ -42,7 +42,7 @@ Strings, integers, maths
   <tr>
    <td>1030
    </td>
-   <td><strong>Python basics - Part I </strong>
+   <td><strong>Python basics</strong>
 <p>
 Jupyter notebook
 <p>
@@ -58,13 +58,13 @@ Lists, dictionaries
   <tr>
    <td>13
    </td>
-   <td><strong>Python basics - Part 2 </strong>
+   <td><strong>Python basics</strong>
 <p>
 Jupyter notebook
 <p>
 Functions, importing modules
 <p>
-Hand-in #3 and #4
+xxx
    </td>
   </tr>
   <tr>
@@ -76,19 +76,9 @@ Hand-in #3 and #4
   <tr>
    <td>1445
    </td>
-   <td><strong>Python Exercises - Part 3</strong>
+   <td><strong>Python basics</strong>
 <p>
-Rosalind.info -- make an account and complete the first 5 exercises.
-<p>
-Store your answers in a Jupyter notebook
-   </td>
-  </tr>
-  <tr>
-   <td>1530
-   </td>
-   <td><strong>Code Discussion & Debugging</strong>
-<p>
-In groups of two, share your screens and go over your solutions to some of the exercises. Solve the Debugging exercises
+Exercices
    </td>
   </tr>
 </table>

@@ -48,9 +48,8 @@ Morning (Julie)
 
 * Personal introductions
 * Introduction to Jupyter Lab
-* Basic python tutorial
-* Code Discussion
-* Debugging exercises
+* Python Basics
+* Exercices
 
 Afternoon (Sara)
 
@@ -73,10 +72,9 @@ Morning (Sara)
 
 Afternoon (Julie)
 
-* Databases and how to interact with them
-* Tour of online databases (EggNOG, NCBI, PFAM, Interpro)
-* Local installation of databases
-* Local BLAST
+* Introduction to biopython
+* Exercices
+* Biopython - build a fasta parser
 
 
 ### Day3: September 28th 2022
@@ -84,12 +82,8 @@ Afternoon (Julie)
 Room ???
 
 Morning (Julie)
-
-* Introduction to biopython
-* Biopython - build a fasta parser
 * Biopython - e-utilities (API)
 * Exercises
-* Code discussion
 
 Afternoon (Sara)
 *
@@ -110,10 +104,8 @@ Morning (Sara)
 
 
 Afternoon (Julie)
-* Matplotlib
-* Exercices
-* Code discussion
-* Useful tools: alignment and phylogeny
+* Alignments
+* Phylogeny
 * Exercices
 * Exam Prep
 
@@ -123,17 +115,3 @@ Afternoon (Julie)
 Room ???
 
 **to be updated**
-
-* Project - from sequence to annotation. Combine what you have learned. Write a script or Jupyter notebook to help you annotate an unknown protein locally - that is, do not simply BLAST your sequence using BLAST online. Your workflow should include at least 4 of the following outputs:
-    * The protein sequence in a fasta file
-    * The taxonomy of the origin of the sequence
-    * A small FASTA file of the top 50 related sequences from local database.
-        * Challenge: consult the biopython cookbook on how to do a remote look up!
-    * A table describing each of the top 50 related sequences. For e.g.,
-        * Description of the sequence (annotation)
-        * Length in amino acids
-        * Organism, other taxonomy?
-    * Multiple sequence alignment of your mystery sequence and the top 50 proteins - this should have reformatting FASTA headers for easy reading.
-        * Challenge: Worried about identical sequences? Try installing ‘cd-hit’ in your conda environment and learning more about the tool..
-    * Phylogenetic tree of these 50 proteins (keep the model simple)
-        * Challenge: before making the alignment, think about what you would like in your Sequence names. Could taxonomy be helpful?

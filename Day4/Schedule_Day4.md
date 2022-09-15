@@ -2,7 +2,7 @@
 
 ### Day4: September 29th 2022
 
-Room Mitochondrion
+Room xxx
 
 
 Part 1
