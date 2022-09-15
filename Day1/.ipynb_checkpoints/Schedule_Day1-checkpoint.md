@@ -1,7 +1,7 @@
 ### Detailed Schedule
 
 
-### Day1: September 26th 2022
+### Day1: September 20th 2021
 
 Room B327 Synpunkten
 
