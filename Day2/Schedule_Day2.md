@@ -53,8 +53,7 @@ xxx
    </td>
    <td><strong>Python and Biology</strong>
 <p>
-Biopython introduction
-<p>
+Solving problems with Python core<p>
 Exercises
    </td>
   </tr>
@@ -69,6 +68,7 @@ Exercises
    </td>
    <td><strong>Python and Biology</strong>
 <p>
+Solving problems with Biopython<p>
 Exercises
    </td>
   </tr>
