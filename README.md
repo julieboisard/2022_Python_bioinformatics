@@ -71,7 +71,7 @@ Afternoon (Sara)
 
 ### Day2: September 27th 2022
 
-Room ???
+Room Bioinformatik (D226)
 
 Morning (Sara)
 
@@ -89,7 +89,7 @@ Afternoon (Julie)
 
 ### Day3: September 28th 2022
 
-Room ???
+Room Krypt - Raggmossan (T109)
 
 Morning (Julie)
 * Biopython - e-utilities (API)
@@ -104,7 +104,7 @@ Afternoon (Sara)
 
 ### Day4: September 29th 2022
 
-Room ???
+Room Liganden (D202)
 
 Morning (Sara)
 *
@@ -122,6 +122,6 @@ Afternoon (Julie)
 
 ### Day5: September 30th 2022
 
-Room ???
+Room Liganden (D202)
 
 **to be updated**
