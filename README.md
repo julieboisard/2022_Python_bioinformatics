@@ -15,7 +15,8 @@ julie.boisard@biol.lu.se
 
 We will meet from 9-16 with breaks around 1030 and 1430.
 
-##To be updated
+## To be updated
+
 All meetings will be held in the B and D Houses of the Biology Building located on Sölvegatan 35.
 
 We suggest entering the building from the main entrance on the south side of the building (facing the new LTH tram stop).
