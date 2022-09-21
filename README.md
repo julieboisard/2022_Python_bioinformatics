@@ -15,17 +15,24 @@ julie.boisard@biol.lu.se
 
 We will meet from 9-16 with breaks around 1030 and 1430.
 
+##To be updated
 All meetings will be held in the B and D Houses of the Biology Building located on Sölvegatan 35.
 
 We suggest entering the building from the main entrance on the south side of the building (facing the new LTH tram stop).
 
 Once inside, you are on the ‘second floor’ (floor 2), turn left to access the B and D houses. https://maps.app.goo.gl/GDTBdNb1kQpW2FDo8
 
+
 Date, time and room:
+
 Mon 2022-09-26, 9-16, Bioinformatik (D226)
+
 Tue 2022-09-27, 9-16, Bioinformatik (D226)
+
 Wed 2022-09-28, 9-16, Krypt - Raggmossan (T109)
+
 Thu 2022-09-29, 9-16, Liganden (D202)
+
 Fri 2022-09-30, 9-16, Liganden (D202)
 
 For lunch, there is a canteen in the Ecology House that will be open. There are also multiple lunchrooms we will have access to with microwaves.
@@ -44,7 +51,7 @@ Attendance in mandatory each day to receive credits (3 hp). Evaluation is pass/f
 
 ### Day1: September 26th 2022
 
-Room ???
+Room Bioinformatik (D226)
 
 Morning (Julie)
 
