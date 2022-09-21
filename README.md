@@ -21,10 +21,12 @@ We suggest entering the building from the main entrance on the south side of the
 
 Once inside, you are on the ‘second floor’ (floor 2), turn left to access the B and D houses. https://maps.app.goo.gl/GDTBdNb1kQpW2FDo8
 
-**to be updated**
-* B327 Syndpunkten - Conference room on the third floor of House B
-* D227 Retina - Second floor of House D
-* D107 Etiketten - First floor of House D
+Date, time and room:
+Mon 2022-09-26, 9-16, Bioinformatik (D226)
+Tue 2022-09-27, 9-16, Bioinformatik (D226)
+Wed 2022-09-28, 9-16, Krypt - Raggmossan (T109)
+Thu 2022-09-29, 9-16, Liganden (D202)
+Fri 2022-09-30, 9-16, Liganden (D202)
 
 For lunch, there is a canteen in the Ecology House that will be open. There are also multiple lunchrooms we will have access to with microwaves.
 
