@@ -74,8 +74,8 @@ Room Bioinformatik (D226)
 
 Morning (Sara)
 
-*
-*
+* Exercises
+* Some buit-in functions 
 
 Afternoon (Julie)
 
