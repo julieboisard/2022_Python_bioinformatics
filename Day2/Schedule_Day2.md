@@ -2,7 +2,7 @@
 
 ### Day2: September 27th 2022
 
-Room xxx
+Room Bioinformatik (D226)
 
 
 Part 1

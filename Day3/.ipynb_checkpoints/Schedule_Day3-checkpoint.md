@@ -2,7 +2,7 @@
 
 ### Day3: September 28th 2022
 
-Room xxx
+Room Krypt - Raggmossan (T109)
 
 
 Part 1

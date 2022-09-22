@@ -3,7 +3,7 @@
 
 ### Day1: September 26th 2022
 
-Room xxx
+Room Bioinformatik (D226)
 
 Course material will be available at [https://github.com/julieboisard/2022_Python_bioinformatics/](https://github.com/julieboisard/2022_Python_bioinformatics/)
 
