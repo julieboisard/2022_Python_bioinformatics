@@ -65,8 +65,8 @@ Morning (Julie)
 
 Afternoon (Sara)
 
-*
-*
+* Loops (If, else, for and while)
+* Logical statements
 
 ### Day2: September 27th 2022
 
