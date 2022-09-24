@@ -98,7 +98,7 @@ Room Liganden (D202)
 
 Morning (Sara)
 * Pandas
-* Exersices
+* Exercises
 * Matplotlib
 
 Afternoon (Julie)

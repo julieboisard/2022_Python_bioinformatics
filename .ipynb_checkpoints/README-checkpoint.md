@@ -15,15 +15,13 @@ julie.boisard@biol.lu.se
 
 We will meet from 9-16 with breaks around 1030 and 1430.
 
-## To be updated
-
 Most of the meetings will be held in the D Houses of the Biology Building located on Sölvegatan 35.
 
 We suggest entering the building from the main entrance on the south side of the building (facing the new LTH tram stop).
 
 Once inside, you are on the ‘second floor’ (floor 2), turn left to access the D house. [Here](https://maps.app.goo.gl/GDTBdNb1kQpW2FDo8) is a map.
 
-One day, we'll meet at the Ecologihuset, in the Raggmossan room. [Here](https://www.google.com/maps/@55.7136974,13.2079739,18.33z) and [here](https://www.cec.lu.se/sv/sites/cec.lu.se.sv/files/2020-09/Kurssalar%20Ekologihuset.pdf) re maps to find the room (top corner right in the Tundra building).
+One day, we'll meet at the Ecologihuset, in the Raggmossan room. [Here](https://www.google.com/maps/@55.7136974,13.2079739,18.33z) and [here](https://www.cec.lu.se/sv/sites/cec.lu.se.sv/files/2020-09/Kurssalar%20Ekologihuset.pdf) are maps to find the room (top corner right in the Tundra building).
 
 
 Date, time and room:
@@ -65,8 +63,8 @@ Morning (Julie)
 
 Afternoon (Sara)
 
-*
-*
+* Conditions/Loops (If, else, for and while)
+* Logical statements
 
 ### Day2: September 27th 2022
 
@@ -74,8 +72,8 @@ Room Bioinformatik (D226)
 
 Morning (Sara)
 
-*
-*
+* Exercises
+* Functions 
 
 Afternoon (Julie)
 
@@ -92,16 +90,16 @@ Morning (Julie)
 * Exercises
 
 Afternoon (Sara)
-*
-*
+* Pandas
 
 ### Day4: September 29th 2022
 
 Room Liganden (D202)
 
 Morning (Sara)
-*
-*
+* Pandas
+* Exercises
+* Matplotlib
 
 Afternoon (Julie)
 * Alignments

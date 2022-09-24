@@ -23,9 +23,9 @@ Part 2
   <tr>
    <td>900
    </td>
-   <td><strong>xxx</strong>
+   <td><strong>Panda</strong>
 <p>
-xxx   </td>
+Exercices   </td>
   </tr>
   <tr>
    <td>945
@@ -36,9 +36,9 @@ xxx   </td>
   <tr>
    <td>10-12
    </td>
-   <td><strong>Code Discussion</strong>
+   <td><strong>Matplotlib</strong>
 <p>
-xxx
+Exercices
    </td>
   </tr>
   <tr>

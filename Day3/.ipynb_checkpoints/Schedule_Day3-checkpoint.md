@@ -51,7 +51,7 @@ Exercices
   <tr>
    <td>13
    </td>
-   <td><strong>xxx</strong>
+   <td><strong>Panda</strong>
 <p>
 Exercises
    </td>
@@ -65,7 +65,7 @@ Exercises
   <tr>
    <td>1445
    </td>
-   <td><strong>xxx</strong>
+   <td><strong>Panda</strong>
 <p>
 Exercises
    </td>

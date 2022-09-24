@@ -64,7 +64,7 @@ Jupyter notebook
 <p>
 Functions, importing modules
 <p>
-xxx
+Exercices
    </td>
   </tr>
   <tr>
