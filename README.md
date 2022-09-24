@@ -97,8 +97,9 @@ Afternoon (Sara)
 Room Liganden (D202)
 
 Morning (Sara)
-*
-*
+* Pandas
+* Exersices
+* Matplotlib
 
 Afternoon (Julie)
 * Alignments
