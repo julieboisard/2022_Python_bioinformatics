@@ -10,6 +10,8 @@ sara.behnamian@biol.lu.se
 
 julie.boisard@biol.lu.se
 
+Course adapted from 2021 Python for bioinformatics' Courtney Stairs' course.
+
 
 ## Location and Time
 
