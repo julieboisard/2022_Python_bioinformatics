@@ -1,0 +1,200 @@
+IQ-TREE multicore version 2.0.3 for Linux 64-bit built Dec 20 2020
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    julieb-Latitude-5420 (AVX512, FMA3, 15 GB RAM)
+Command: iqtree -s SDHA_ncbi_muscle_trim.fasta -m LG -B 1000 -nt 6 -pre SDHA_ncbi_muscle_trim
+Seed:    393519 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Thu Sep 29 11:10:01 2022
+Kernel:  AVX+FMA - 6 threads (8 CPU cores detected)
+
+Reading alignment file SDHA_ncbi_muscle_trim.fasta ... Fasta format detected
+Alignment most likely contains protein sequences
+Alignment has 86 sequences with 441 columns, 424 distinct patterns
+404 parsimony-informative, 11 singleton sites, 26 constant sites
+WARNING: Some sequence names are changed as follows:
+Q8YXJ6.1_Nostoc_sp._PCC_7120_=_FACHB-418 -> Q8YXJ6.1_Nostoc_sp._PCC_7120___FACHB-418
+Q9X8N8.1_Streptomyces_coelicolor_A3(2) -> Q9X8N8.1_Streptomyces_coelicolor_A3_2_
+
+                                                                           Gap/Ambiguity  Composition  p-value
+   1  Q6ZDY8.1_Oryza_sativa_Japonica_Group                                         0.00%    passed     95.93%
+   2  P31040.2_Homo_sapiens                                                        0.00%    passed     76.00%
+   3  P17412.3_Wolinella_succinogenes_DSM_1740                                     0.00%    passed     42.55%
+   4  Q8TZL4.1_Pyrococcus_furiosus_DSM_3638                                        1.81%    failed      0.00%
+   5  Q8YXJ6.1_Nostoc_sp._PCC_7120___FACHB-418                                     0.00%    failed      2.29%
+   6  Q8XNE2.1_Clostridium_perfringens_str._13                                     7.26%    failed      0.00%
+   7  P31038.1_Rickettsia_prowazekii_str._Madrid_E                                 0.00%    passed    100.00%
+   8  Q92J97.1_Rickettsia_conorii_str._Malish_7                                    0.00%    passed     99.90%
+   9  Q9JSX4.1_Neisseria_meningitidis_Z2491                                        0.68%    failed      0.01%
+  10  P10902.4_Escherichia_coli_K-12                                               0.00%    passed     88.02%
+  11  Q9X8N8.1_Streptomyces_coelicolor_A3_2_                                       0.00%    failed      0.00%
+  12  Q6PA58.1_Xenopus_laevis                                                      0.00%    passed     90.85%
+  13  Q8Y5N4.1_Listeria_monocytogenes_EGD-e                                        0.91%    failed      0.06%
+  14  Q6Z836.1_Oryza_sativa_Japonica_Group                                         0.00%    passed     93.27%
+  15  Q68XN9.1_Rickettsia_typhi_str._Wilmington                                    0.00%    passed     99.99%
+  16  Q92R32.1_Sinorhizobium_meliloti_1021                                         0.45%    passed      5.24%
+  17  O57765.1_Pyrococcus_horikoshii_OT3                                           1.36%    failed      0.03%
+  18  Q9HNZ0.1_Halobacterium_salinarum_NRC-1                                       1.36%    failed      0.00%
+  19  Q920L2.1_Rattus_norvegicus                                                   0.00%    passed     65.08%
+  20  V3TQ67.1_Serratia_sp._ATCC_39006                                             0.00%    passed     69.88%
+  21  Q4UJM1.1_Rickettsia_felis_URRWXCal2                                          0.00%    passed     99.89%
+  22  P38032.1_Bacillus_subtilis_subsp._subtilis_str._168                          0.68%    passed     69.80%
+  23  Q9PC57.1_Xylella_fastidiosa_9a5c                                             0.23%    failed      0.20%
+  24  Q87D19.1_Xylella_fastidiosa_Temecula1                                        0.23%    failed      0.13%
+  25  Q97ZC5.2_Saccharolobus_solfataricus_P2                                       3.17%    failed      0.00%
+  26  P0C278.1_Shewanella_frigidimarina                                           16.33%    failed      0.00%
+  27  O82663.1_Arabidopsis_thaliana                                                0.00%    passed     99.53%
+  28  Q9V2R0.1_Pyrococcus_abyssi_GE5                                               1.36%    failed      0.02%
+  29  Q8XQG4.1_Ralstonia_solanacearum_GMI1000                                      0.23%    passed     85.97%
+  30  Q0QF17.1_Mesocricetus_auratus                                                0.68%    passed     76.29%
+  31  Q929Z2.1_Listeria_innocua_Clip11262                                          0.91%    failed      0.02%
+  32  Q8K2B3.1_Mus_musculus                                                        0.00%    passed     71.37%
+  33  Q9KPA4.2_Vibrio_cholerae_O1_biovar_El_Tor_str._N16961                        0.00%    passed     80.87%
+  34  Q8ZQU3.1_Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2    0.00%    passed     99.24%
+  35  Q94AY1.1_Arabidopsis_thaliana                                                0.23%    passed     83.85%
+  36  Q0QF01.2_Sus_scrofa                                                          0.00%    passed     58.92%
+  37  Q972D2.1_Sulfurisphaera_tokodaii_str._7                                      2.27%    failed      0.00%
+  38  Q59661.1_Paracoccus_denitrificans                                            0.00%    passed     91.15%
+  39  P08065.4_Bacillus_subtilis_subsp._subtilis_str._168                          0.00%    passed     16.24%
+  40  Q8ZMX9.1_Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2    0.00%    passed     64.21%
+  41  Q9YHT1.2_Gallus_gallus                                                       0.00%    passed     58.04%
+  42  Q9K107.1_Neisseria_meningitidis_MC58                                         0.68%    failed      0.00%
+  43  Q7ZVF3.2_Danio_rerio                                                         0.00%    passed     97.19%
+  44  O66973.1_Aquifex_aeolicus_VF5                                                0.91%    failed      0.00%
+  45  P64175.1_Mycobacterium_tuberculosis_variant_bovis_AF2122/97                  0.23%    passed     78.31%
+  46  Q51363.1_Pseudomonas_aeruginosa_PAO1                                         0.00%    passed     69.26%
+  47  Q8U8J4.1_Agrobacterium_fabrum_str._C58                                       0.23%    failed      0.00%
+  48  P20922.1_Proteus_vulgaris                                                    0.00%    passed     91.92%
+  49  P83223.2_Shewanella_oneidensis_MR-1                                         15.87%    failed      0.03%
+  50  Q49617.2_Mycobacterium_leprae_TN                                             0.45%    failed      0.00%
+  51  Q9A4C3.1_Caulobacter_vibrioides_CB15                                         0.00%    failed      0.00%
+  52  Q9KDJ5.1_Alkalihalobacillus_halodurans_C-125                                 2.27%    passed     73.74%
+  53  Q8ZD80.2_Yersinia_pestis                                                     0.00%    passed     95.98%
+  54  Q60356.1_Methanocaldococcus_jannaschii_DSM_2661                              1.13%    failed      0.00%
+  55  Q09508.3_Caenorhabditis_elegans                                              0.00%    passed     94.05%
+  56  Q9Z4P0.1_Shewanella_frigidimarina_NCIMB_400                                 15.87%    failed      0.00%
+  57  D9PU00.1_Methanothermobacter_marburgensis_str._Marburg                       0.68%    failed      2.35%
+  58  P0AC41.1_Escherichia_coli_K-12                                               0.00%    passed     99.24%
+  59  P74562.1_Synechocystis_sp._PCC_6803_substr._Kazusa                           0.00%    failed      0.35%
+  60  Q9U3X4.1_Dictyostelium_discoideum                                            0.00%    passed     99.61%
+  61  Q00711.1_Saccharomyces_cerevisiae_S288C                                      0.00%    passed     99.81%
+  62  Q98AV8.1_Mesorhizobium_japonicum_MAFF_303099                                 0.23%    failed      0.03%
+  63  Q801S2.1_Xenopus_laevis                                                      0.00%    passed     80.81%
+  64  P47052.1_Saccharomyces_cerevisiae_S288C                                      0.00%    passed     99.69%
+  65  Q9ZMP0.1_Helicobacter_pylori_J99                                             0.00%    passed     43.53%
+  66  P44894.1_Haemophilus_influenzae_Rd_KW20                                      0.00%    passed     65.10%
+  67  P65500.1_Mycobacterium_tuberculosis_variant_bovis_AF2122/97                  0.45%    failed      0.00%
+  68  Q8XA23.1_Escherichia_coli_O157                                               0.00%    passed     89.79%
+  69  G4V4G6.1_Serratia_sp._ATCC_39006                                             0.00%    passed     99.32%
+  70  Q5R616.1_Pongo_abelii                                                        0.00%    passed     76.00%
+  71  Q97K95.1_Clostridium_acetobutylicum_ATCC_824                                 8.62%    failed      0.00%
+  72  Q9ZPX5.1_Arabidopsis_thaliana                                                0.00%    passed     97.66%
+  73  P31039.3_Bos_taurus                                                          0.00%    passed     49.04%
+  74  Q7M827.1_Wolinella_succinogenes_DSM_1740                                     0.00%    passed     88.18%
+  75  O06913.2_Helicobacter_pylori_26695                                           0.00%    passed     52.45%
+  76  Q94523.3_Drosophila_melanogaster                                             0.00%    passed     99.23%
+  77  Q9UTJ7.1_Schizosaccharomyces_pombe_972h-                                     0.00%    passed     99.54%
+  78  P32614.1_Saccharomyces_cerevisiae_S288C                                     16.10%    failed      0.10%
+  79  Q07WU7.2_Shewanella_frigidimarina_NCIMB_400                                 15.87%    failed      0.00%
+  80  P00363.3_Escherichia_coli_K-12                                               0.00%    passed     65.78%
+  81  Q28ED0.1_Xenopus_tropicalis                                                  0.00%    passed     83.44%
+  82  Q8Z4K0.1_Salmonella_enterica_subsp._enterica_serovar_Typhi                   0.00%    passed     60.57%
+  83  P51054.1_Coxiella_burnetii_RSA_493                                           0.23%    passed     86.02%
+  84  Q8XWM7.1_Ralstonia_solanacearum_GMI1000                                      0.23%    passed     45.63%
+  85  Q1RHB9.1_Rickettsia_bellii_RML369-C                                          0.00%    passed     99.97%
+  86  Q8HXW3.1_Macaca_fascicularis                                                 0.00%    passed     76.79%
+****  TOTAL                                                                        1.40%  30 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: Q5R616.1_Pongo_abelii is identical to P31040.2_Homo_sapiens but kept for subsequent analysis
+Creating fast initial parsimony tree by random order stepwise addition...
+0.026 seconds, parsimony score: 7737 (based on 415 sites)
+Generating 1000 samples for ultrafast bootstrap (seed: 393519)...
+
+NOTE: 7 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -39398.388
+Optimal log-likelihood: -39123.141
+Parameters optimization took 1 rounds (0.034 sec)
+Computing ML distances based on estimated model parameters... 0.262 sec
+Computing BIONJ tree...
+0.003 seconds
+Log-likelihood of BIONJ tree: -38975.566
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.257 second
+Computing log-likelihood of 98 initial trees ... 0.832 seconds
+Current best score: -38975.566
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -38943.254
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -38939.209
+Iteration 10 / LogL: -38948.100 / Time: 0h:0m:2s
+Iteration 20 / LogL: -38972.367 / Time: 0h:0m:4s
+Finish initializing candidate tree set (20)
+Current best tree score: -38939.209 / CPU time: 3.990
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -38940.721 / Time: 0h:0m:6s (0h:0m:15s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 39: -38938.928
+Iteration 40 / LogL: -38942.261 / Time: 0h:0m:7s (0h:0m:20s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 43: -38938.735
+Iteration 50 / LogL: -38940.806 / Time: 0h:0m:9s (0h:0m:18s left)
+Log-likelihood cutoff on original alignment: -38984.823
+UPDATE BEST LOG-LIKELIHOOD: -38938.735
+Iteration 60 / LogL: -38939.619 / Time: 0h:0m:11s (0h:0m:16s left)
+Iteration 70 / LogL: -38940.868 / Time: 0h:0m:13s (0h:0m:14s left)
+Iteration 80 / LogL: -38945.117 / Time: 0h:0m:15s (0h:0m:12s left)
+Iteration 90 / LogL: -38941.785 / Time: 0h:0m:17s (0h:0m:10s left)
+Iteration 100 / LogL: -38941.987 / Time: 0h:0m:19s (0h:0m:8s left)
+Log-likelihood cutoff on original alignment: -38982.988
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.999
+UPDATE BEST LOG-LIKELIHOOD: -38938.735
+Iteration 110 / LogL: -38940.970 / Time: 0h:0m:21s (0h:0m:17s left)
+Iteration 120 / LogL: -38947.194 / Time: 0h:0m:23s (0h:0m:15s left)
+Iteration 130 / LogL: -38939.215 / Time: 0h:0m:25s (0h:0m:13s left)
+Iteration 140 / LogL: -38940.615 / Time: 0h:0m:27s (0h:0m:11s left)
+TREE SEARCH COMPLETED AFTER 144 ITERATIONS / Time: 0h:0m:28s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -38938.735
+Optimal log-likelihood: -38938.735
+Parameters optimization took 1 rounds (0.015 sec)
+BEST SCORE FOUND : -38938.735
+Creating bootstrap support values...
+Split supports printed to NEXUS file SDHA_ncbi_muscle_trim.splits.nex
+Total tree length: 25.084
+
+Total number of iterations: 144
+CPU time used for tree search: 164.323 sec (0h:2m:44s)
+Wall-clock time used for tree search: 27.886 sec (0h:0m:27s)
+Total CPU time used: 165.640 sec (0h:2m:45s)
+Total wall-clock time used: 28.225 sec (0h:0m:28s)
+
+Computing bootstrap consensus tree...
+Reading input file SDHA_ncbi_muscle_trim.splits.nex...
+86 taxa and 330 splits.
+Consensus tree written to SDHA_ncbi_muscle_trim.contree
+Reading input trees file SDHA_ncbi_muscle_trim.contree
+Log-likelihood of consensus tree: -38940.278
+
+Analysis results written to: 
+  IQ-TREE report:                SDHA_ncbi_muscle_trim.iqtree
+  Maximum-likelihood tree:       SDHA_ncbi_muscle_trim.treefile
+  Likelihood distances:          SDHA_ncbi_muscle_trim.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          SDHA_ncbi_muscle_trim.splits.nex
+  Consensus tree:                SDHA_ncbi_muscle_trim.contree
+  Screen log file:               SDHA_ncbi_muscle_trim.log
+
+Date and Time: Thu Sep 29 11:10:29 2022
